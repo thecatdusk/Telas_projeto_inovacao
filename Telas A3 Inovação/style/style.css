@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255,255,255);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+.botao-histórico{
+    margin-right: 0;
+}
+.status{
+    height: 10;
+}
